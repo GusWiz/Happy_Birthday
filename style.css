@@ -86,3 +86,13 @@ h1, h2, h3, h4, p {
 #gift-img-cheers {
     height: 200px
 }
+
+#footer {
+    width: 400px;
+    margin: 40px auto 20px;
+    font-style: italic;;
+}
+
+a {
+    color: white;
+}
