@@ -58,12 +58,12 @@ h1, h2, h3, h4, p {
     border-radius: 6px;
 } 
 
-.gift-img:hover {
+#gift-img-happy:hover {
     background-image: url('./images/Jjk\ Jujutsu\ Kaisen\ GIF.gif');
     background-size: contain;
 }
 
-.room:hover {
+#gift-img-room:hover {
     background-image: url('/images/Jjk\ GIF.gif');
     background-size: cover;
 }
