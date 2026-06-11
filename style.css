@@ -60,20 +60,29 @@ h1, h2, h3, h4, p {
 
 #gift-img-happy:hover {
     background-image: url('./images/Jjk\ Jujutsu\ Kaisen\ GIF.gif');
-    background-size: contain;
+}
+
+#gift-img-happy {
+    height: 200px
 }
 
 #gift-img-room:hover {
     background-image: url('/images/Jjk\ GIF.gif');
-    background-size: cover;
 }
 
 #gift-img-word:hover {
     background-image: url('/images/word.gif');
-    background-size: cover;
 }
 
 #gift-img-badass:hover {
     background-image: url('/images/Gojo\ GIF.gif');
-    background-size: cover;
+}
+
+#gift-img-cheers:hover {
+    background-image: url('/images/jjk\ cheers.gif');
+    height: 200px;
+}
+
+#gift-img-cheers {
+    height: 200px
 }
