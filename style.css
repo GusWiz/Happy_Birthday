@@ -1,7 +1,7 @@
 body {
     font-family: "Happy Monkey", cursive;
     text-align: center;
-    background-color: #a2d2ff;
+    background: linear-gradient(#4183c1, #efb0c9);
     color: #ffffff;
 }
 
